@@ -48,7 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EsdrasCaetano/EsdrasCaetano/output/snake.svg" alt="Snake animation" />
 
 ###
 
