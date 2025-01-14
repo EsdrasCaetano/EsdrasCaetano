@@ -1,8 +1,16 @@
+<h2 align="left">👋 Hi there, welcome to my Github profil</h2>
+
+###
+
+<p align="left">• My name is Esdras Caetano, and I'm a JavaScript Developer from Recife, PE, Brazil 🇧🇷</p>
+
+###
+
 <h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">- 🚀 Front-end Developer passionate about creating intuitive and modern web experiences.<br><br>- 💻 Currently working as a Software Developer at @agenciabali and as a freelancer.<br><br>-🌱 Continuously learning to specialize in React and TypeScript, diving into the ecosystem, including frameworks, libraries, and best practices.<br><br>- 📚 Improving my English skills to achieve fluency and broaden my opportunities in the global tech market.</p>
+<p align="left">• 🚀 Front-end Developer passionate about creating intuitive and modern web experiences.<br><br>• 💻 Currently working as a Software Developer at @agenciabali and as a freelancer.<br><br>• 🌱 Continuously learning to specialize in React and TypeScript, diving into the ecosystem, including frameworks, libraries, and best practices.<br><br>• 📚 Improving my English skills to achieve fluency and broaden my opportunities in the global tech market.</p>
 
 ###
 
@@ -47,6 +55,10 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/EsdrasCaetano/EsdrasCaetano/output/snake.svg" alt="Snake animation" />
 
 ###
 
