@@ -1,5 +1,5 @@
 
-![github-header-image](https://github.com/user-attachments/assets/f63fa51e-5b6a-4266-9cf6-1285945f060a)
+![github-header-image (2)](https://github.com/user-attachments/assets/3ee12f69-8b0e-4517-9e09-1dc3fa31382d)
 
 <h2 align="left">👋 Hi there, welcome to my Github profile</h2>
 
